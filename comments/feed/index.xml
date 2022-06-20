@@ -4,6 +4,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
 	>
 <channel>
 	<title>
@@ -20,7 +23,7 @@
 	<item>
 		<title>
 		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
-		<link>https://duy2109.github.io/vothuat/blog/2022/05/16/chao-moi-nguoi/#comment-1</link>
+		<link>https://duy2109.github.io/vothuat/2022/05/16/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
 		<pubDate>Mon, 16 May 2022 08:39:11 +0000</pubDate>
