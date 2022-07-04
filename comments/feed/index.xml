@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Bình luận cho 	</title>
-	<atom:link href="https://duy2109.github.io/vothuat/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://duy2109.github.io/vothuat</link>
+	<atom:link href="https://duy2109.github.io/pizza/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://duy2109.github.io/pizza</link>
 	<description></description>
 	<lastBuildDate>Mon, 16 May 2022 08:39:11 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,11 +23,11 @@
 	<item>
 		<title>
 		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
-		<link>https://duy2109.github.io/vothuat/2022/05/16/chao-moi-nguoi/#comment-1</link>
+		<link>https://duy2109.github.io/pizza/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
 		<pubDate>Mon, 16 May 2022 08:39:11 +0000</pubDate>
-		<guid isPermaLink="false">https://duy2109.github.io/vothuat/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://duy2109.github.io/pizza/?p=1#comment-1</guid>
 
 					<description><![CDATA[Xin chào, đây là một bình luận
 Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.

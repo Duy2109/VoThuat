@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Design</title>
-	<atom:link href="https://duy2109.github.io/vothuat/featured_item_category/design/feed/" rel="self" type="application/rss+xml" />
-	<link>https://duy2109.github.io/vothuat</link>
+	<atom:link href="https://duy2109.github.io/pizza/featured_item_category/design/feed/" rel="self" type="application/rss+xml" />
+	<link>https://duy2109.github.io/pizza</link>
 	<description></description>
 	<lastBuildDate>Sun, 28 Aug 2016 09:38:06 +0000</lastBuildDate>
 	<language>vi</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 	<item>
 		<title>Another Print Package</title>
-		<link>https://duy2109.github.io/vothuat/featured_item/another-print-package/</link>
-					<comments>https://duy2109.github.io/vothuat/featured_item/another-print-package/#respond</comments>
+		<link>https://duy2109.github.io/pizza/featured_item/another-print-package/</link>
+					<comments>https://duy2109.github.io/pizza/featured_item/another-print-package/#respond</comments>
 		
 		<dc:creator><![CDATA[duy123]]></dc:creator>
 		<pubDate>Sun, 28 Aug 2016 09:38:06 +0000</pubDate>
@@ -34,22 +34,22 @@
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. ]]></description>
 										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. ]]></content:encoded>
 					
-					<wfw:commentRss>https://duy2109.github.io/vothuat/featured_item/another-print-package/feed/</wfw:commentRss>
+					<wfw:commentRss>https://duy2109.github.io/pizza/featured_item/another-print-package/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>FL3 Print Package</title>
-		<link>https://duy2109.github.io/vothuat/featured_item/fl3-print-package/</link>
-					<comments>https://duy2109.github.io/vothuat/featured_item/fl3-print-package/#respond</comments>
+		<link>https://duy2109.github.io/pizza/featured_item/fl3-print-package/</link>
+					<comments>https://duy2109.github.io/pizza/featured_item/fl3-print-package/#respond</comments>
 		
 		<dc:creator><![CDATA[duy123]]></dc:creator>
 		<pubDate>Sun, 28 Aug 2016 09:36:46 +0000</pubDate>
 				<guid isPermaLink="false">http://flatsome.dev/?post_type=featured_item&#038;p=8917</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.]]></description>
-										<content:encoded><![CDATA[<div class="slider-wrapper relative" id="slider-1898528715" style="margin-bottom:13px;">
+										<content:encoded><![CDATA[<div class="slider-wrapper relative" id="slider-1064813910" style="margin-bottom:13px;">
     <div class="slider slider-nav-circle slider-nav-large slider-nav-light slider-style-normal"
         data-flickity-options='{
             "cellAlign": "center",
@@ -72,37 +72,37 @@
             "friction": 0.6        }'
         >
         
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1484783001">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_869390979">
 								<div class="img-inner dark" >
-			<img width="400" height="260" src="https://duy2109.github.io/vothuat/wp-content/uploads/2016/08/dummy-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />						
+			<img width="400" height="260" src="https://duy2109.github.io/pizza/wp-content/uploads/2016/08/dummy-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />						
 					</div>
 								
 <style>
-#image_1484783001 {
+#image_869390979 {
   width: 100%;
 }
 </style>
 	</div>
 	
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1374823398">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1135369169">
 								<div class="img-inner dark" >
-			<img width="400" height="260" src="https://duy2109.github.io/vothuat/wp-content/uploads/2016/08/dummy-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />						
+			<img width="400" height="260" src="https://duy2109.github.io/pizza/wp-content/uploads/2016/08/dummy-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />						
 					</div>
 								
 <style>
-#image_1374823398 {
+#image_1135369169 {
   width: 100%;
 }
 </style>
 	</div>
 	
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_790619930">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_275041467">
 								<div class="img-inner dark" >
-			<img width="400" height="260" src="https://duy2109.github.io/vothuat/wp-content/uploads/2016/08/dummy-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />						
+			<img width="400" height="260" src="https://duy2109.github.io/pizza/wp-content/uploads/2016/08/dummy-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />						
 					</div>
 								
 <style>
-#image_790619930 {
+#image_275041467 {
   width: 100%;
 }
 </style>
@@ -118,15 +118,15 @@
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://duy2109.github.io/vothuat/featured_item/fl3-print-package/feed/</wfw:commentRss>
+					<wfw:commentRss>https://duy2109.github.io/pizza/featured_item/fl3-print-package/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Awesome Pencil Poster</title>
-		<link>https://duy2109.github.io/vothuat/featured_item/awesome-pencil-poster/</link>
-					<comments>https://duy2109.github.io/vothuat/featured_item/awesome-pencil-poster/#respond</comments>
+		<link>https://duy2109.github.io/pizza/featured_item/awesome-pencil-poster/</link>
+					<comments>https://duy2109.github.io/pizza/featured_item/awesome-pencil-poster/#respond</comments>
 		
 		<dc:creator><![CDATA[duy123]]></dc:creator>
 		<pubDate>Sun, 28 Aug 2016 09:35:26 +0000</pubDate>
@@ -135,15 +135,15 @@
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat]]></description>
 										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat]]></content:encoded>
 					
-					<wfw:commentRss>https://duy2109.github.io/vothuat/featured_item/awesome-pencil-poster/feed/</wfw:commentRss>
+					<wfw:commentRss>https://duy2109.github.io/pizza/featured_item/awesome-pencil-poster/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Portfolio typography</title>
-		<link>https://duy2109.github.io/vothuat/featured_item/portfolio-typography/</link>
-					<comments>https://duy2109.github.io/vothuat/featured_item/portfolio-typography/#respond</comments>
+		<link>https://duy2109.github.io/pizza/featured_item/portfolio-typography/</link>
+					<comments>https://duy2109.github.io/pizza/featured_item/portfolio-typography/#respond</comments>
 		
 		<dc:creator><![CDATA[duy123]]></dc:creator>
 		<pubDate>Sun, 28 Aug 2016 09:29:58 +0000</pubDate>
@@ -152,15 +152,15 @@
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.]]></description>
 										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.]]></content:encoded>
 					
-					<wfw:commentRss>https://duy2109.github.io/vothuat/featured_item/portfolio-typography/feed/</wfw:commentRss>
+					<wfw:commentRss>https://duy2109.github.io/pizza/featured_item/portfolio-typography/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Flatsome Poster Print</title>
-		<link>https://duy2109.github.io/vothuat/featured_item/flatsome-poster-print/</link>
-					<comments>https://duy2109.github.io/vothuat/featured_item/flatsome-poster-print/#respond</comments>
+		<link>https://duy2109.github.io/pizza/featured_item/flatsome-poster-print/</link>
+					<comments>https://duy2109.github.io/pizza/featured_item/flatsome-poster-print/#respond</comments>
 		
 		<dc:creator><![CDATA[duy123]]></dc:creator>
 		<pubDate>Sun, 28 Aug 2016 09:25:23 +0000</pubDate>
@@ -170,15 +170,15 @@
 										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://duy2109.github.io/vothuat/featured_item/flatsome-poster-print/feed/</wfw:commentRss>
+					<wfw:commentRss>https://duy2109.github.io/pizza/featured_item/flatsome-poster-print/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Magazine</title>
-		<link>https://duy2109.github.io/vothuat/featured_item/magazine/</link>
-					<comments>https://duy2109.github.io/vothuat/featured_item/magazine/#respond</comments>
+		<link>https://duy2109.github.io/pizza/featured_item/magazine/</link>
+					<comments>https://duy2109.github.io/pizza/featured_item/magazine/#respond</comments>
 		
 		<dc:creator><![CDATA[duy123]]></dc:creator>
 		<pubDate>Sun, 28 Aug 2016 09:22:57 +0000</pubDate>
@@ -187,7 +187,7 @@
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat]]></description>
 										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat]]></content:encoded>
 					
-					<wfw:commentRss>https://duy2109.github.io/vothuat/featured_item/magazine/feed/</wfw:commentRss>
+					<wfw:commentRss>https://duy2109.github.io/pizza/featured_item/magazine/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
